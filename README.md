@@ -8,13 +8,16 @@ A Windows application that allows the user to disable/enable USB devices connect
 
 ## Getting Started
 Create a python virtual environment on your machine, and clone this repository to it. Run the following in your shell to install the required python modules:
-'''
+
+```
 pip install -r requirements.txt
-'''
+```
+
 To run the application, either run "USB Charge Only.exe", or run the python file in your shell:
-'''
+
+```
 C:\path_to_folder> "USB Charge Only.py"
-'''
+```
 
 ## Build With
 * [QtPY5](https://pythonspot.com/pyqt5/) - Framework for GUI
