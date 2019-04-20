@@ -1,7 +1,7 @@
 # USB-Charge-Only
 A Windows application that allows the user to disable/enable USB devices connected to their computer without having to remove them.
 
-[Video demonstrating how to use the application.](https://youtu.be/00cUgJuQWZk) 
+[Video demonstrating how to use the application.](https://youtu.be/00cUgJuQWZk)
 
 ## Prerequisites
 * Python 3
@@ -21,7 +21,7 @@ To run the application, either run "USB Charge Only.exe", or run the python file
 C:\path_to_folder> "USB Charge Only.py"
 ```
 
-## Build With
+## Built With
 * [QtPY5](https://pythonspot.com/pyqt5/) - Framework for GUI
 * [USBDeview](https://www.nirsoft.net/utils) - Application that helps with enabling and disabling USB Devices
 * [USBTreeView](https://www.uwe-sieber.de) - Application that shows USB structure of computer
