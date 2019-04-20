@@ -1,6 +1,8 @@
 # USB-Charge-Only
 A Windows application that allows the user to disable/enable USB devices connected to their computer without having to remove them.
 
+[Video demonstrating how to use the application.](https://youtu.be/00cUgJuQWZk) 
+
 ## Prerequisites
 * Python 3
 * [Python virtual environment](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/26/python-virtual-env/)
